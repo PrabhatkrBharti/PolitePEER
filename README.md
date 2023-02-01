@@ -1,6 +1,6 @@
 **This repository contains dataset and code of the "PolitePEER: Does Peer Review Hurt? A Dataset to Gauge Politeness Intensity in the Peer Reviews" Authors: Prabhat Kumar Bharti, Meith Navlakha, Mayank Agrawal, Asif Ekbal Affiliation: Indian Institute of Technology, Patna, India****
 
-## Download the project source folder
+## 
 
 Can download the source code using `git clone` or the `zip file`.
 
@@ -21,7 +21,7 @@ This [notebook](https://github.com/meithnav/IIT-PolitenessLevels-Dataset/blob/ma
 
 ### 3) Custom Embedding Model:
 
-This [notebooks](https://github.com/meithnav/IIT-PolitenessLevels-Dataset/blob/main/notebooks/politeness-CustomEmbedding-model.ipynb)
+This [notebook](https://github.com/meithnav/IIT-PolitenessLevels-Dataset/blob/main/notebooks/politeness-CustomEmbedding-model.ipynb)
 consists our defined Embedding layer using word2vec. Our defined Embedding layer returns a 300 dimensional embedding vectoer which passes it to BiLSTM. NOYE: Make sure `is_BiLSTM = True` while running the notebook. Also, load the `Embedding-Matrix.pickle` [link](https://drive.google.com/file/d/1rLlHkxkujGiZNTtmoP0GplOgRVRFmCw2/view?usp=share_link) to load the weights for our custom embeddings.
 
 ### 4) Inter Annotator Agreement :
