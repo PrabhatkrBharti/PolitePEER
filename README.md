@@ -1,4 +1,4 @@
-**## **This repository contains dataset and code of the "PolitePEER: Does Peer Review Hurt? A Dataset to Gauge Politeness Intensity in the Peer Reviews" Authors: Prabhat Kumar Bharti, Meith Navlakha, Mayank Agrawal, Asif Ekbal Affiliation: Indian Institute of Technology, Patna, India****
+**This repository contains dataset and code of the "PolitePEER: Does Peer Review Hurt? A Dataset to Gauge Politeness Intensity in the Peer Reviews" Authors: Prabhat Kumar Bharti, Meith Navlakha, Mayank Agrawal, Asif Ekbal Affiliation: Indian Institute of Technology, Patna, India****
 
 ## Download the project source folder
 
@@ -25,7 +25,7 @@ This [notebook](https://github.com/meithnav/IIT-PolitenessLevels-Dataset/blob/ma
 consists our defined Embedding layer using word2vec. Our defined Embedding layer returns a 300 dimensional embedding vectoer which passes it to BiLSTM. NOYE: Make sure `is_BiLSTM = True` while running the notebook. Also, load the `Embedding-Matrix.pickle` [link](https://drive.google.com/file/d/1rLlHkxkujGiZNTtmoP0GplOgRVRFmCw2/view?usp=share_link) to load the weights for our custom embeddings.
 
 ### 4) Inter Annotator Agreement :
-This [notebook](https://github.com/meithnav/IIT-PolitenessLevels-Dataset/blob/main/IAA/iaa.ipynb) depicts Fleiss Kappa, Krippendroff Alpha, and Cohen Kappa scores, suggesting how well multiple annotators have annoatated the review following the proposed annotation guidelines. 
+This [notebook](https://github.com/meithnav/IIT-PolitenessLevels-Dataset/blob/main/IAA/iaa.ipynb) suggest how well multiple annotators have annoatated the review following the proposed annotation guidelines. 
 
 #### IMPORTANT POINTS BEFORE RUNNING:
 
