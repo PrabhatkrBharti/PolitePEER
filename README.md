@@ -5,7 +5,7 @@
 Can download the source code using `git clone` or the `zip file`.
 
 ## Dataset:
-We proffer a novel annotated dataset comprising 5 levels of politeness : (1) Highly Impolite, (2) Impolite, (3) Neutral, (4) Polite, and (5) Highly Polite. The dataset consists of `2500 review sentences`, encompassing levels of politeness tone intensity of peer reviews accrued from various multi-disciplinary venues like ICLR, NeurIPS, Publons, and ShitMyReviewersSay. However, till the paper is under internal review we have published only `500 review sentences` from our dataset for reference purposes only. 
+We proffer a novel annotated dataset comprising 5 levels of politeness : (1) Highly Impolite, (2) Impolite, (3) Neutral, (4) Polite, and (5) Highly Polite. The dataset consists of `2500 review sentences`, encompassing levels of politeness tone intensity of peer reviews accrued from various multi-disciplinary venues like ICLR, NeurIPS, Publons, and ShitMyReviewersSay.  
 
 #### NOTE: We have also stored the embeddings to expedite the training process. Since the entire dataset sums upto 68 MB, we have uploaded it [HERE](https://drive.google.com/drive/folders/1D_JuE4I17e6N0ReoCHWfRjLVMkFDBZl0?usp=sharing)
 
